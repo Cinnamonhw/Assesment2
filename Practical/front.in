@@ -1,0 +1,36 @@
+void main () {
+
+  switch (ch) {
+		 case A:
+			 int result = result + 1;
+			 break;
+     default: 
+       int result  = result - 1;
+       break;
+  };
+  
+  int a = 0;
+  int j = 1;
+  int result = a + j;
+
+  if (result > j) 
+    int result = 5;
+
+  for (i = 0; i < 10; i++) 
+    int result = result + 1;
+  
+
+  while (result > 9) 
+    int result = result - 1;
+  
+  do 
+    int a = a+1;
+  while (result > 0 )
+    int result = result - 1;
+
+  foreach (f in pets) 
+    int apple = f + 1;
+  
+  
+  
+}
