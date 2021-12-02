@@ -649,17 +649,6 @@ void for_each(void) {
       else {
         lex();
         statement();
-        // if (nextToken != LEFT_BRACE) {
-        //   error();
-        // }
-        // else {
-        //   lex();
-        //   statement();
-        //   lex();
-        //   if (nextToken != RIGHT_BRACE) {
-        //     error();
-        //   }
-        // }
       }
     }
   }
